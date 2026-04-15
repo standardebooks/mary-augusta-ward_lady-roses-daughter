@@ -37,20 +37,3 @@ footer{
 	font-variant: all-small-caps;
 }
 /* End letters and telegrams */
-
-#chapter-18 blockquote p{
-	text-indent: 0;
-}
-
-#chapter-21 blockquote:nth-of-type(3) p{
-	font-style: italic;
-}
-
-#chapter-21 blockquote span{
-	font-style: normal;
-	font-variant: small-caps;
-}
-
-#chapter-23 blockquote p{
-	font-style: italic;
-}
