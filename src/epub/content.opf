@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mary-augusta-ward/lady-roses-daughter</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-04-17T21:35:28Z</dc:date>
+		<meta property="dcterms:modified">2026-04-17T21:35:28Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,16 +33,17 @@
 		<meta property="authority" refines="#subject-1">LCHS</meta>
 		<meta property="term" refines="#subject-1">sh85043366</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A intelligent, scheming woman, hiding her illegitimacy, seeks to advance the career of a soldier she loves though he is engaged to another, yet she has refused marriage to a steadfast aristocrat struggling against his heritage who could reclaim her status.</dc:description>
+		<dc:description id="description">A scheming woman seeks to advance the career of a soldier she loves, while refusing marriage to an aristocrat who could improve her situation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Mademoiselle Julie Le Breton is a complex intelligent ambitious woman secretly scheming and manipulating to advance the career of a man she loves but who is engaged to her cousin. She hides her illegitimacy, rebelling against the subservient role she is forced to play in society, concealing her outcast parents, Lady Rose and her extramarital lover. Employed as a companion to an aristocrat, jealously develops over her success and intrigues, and she is spectacularly fired in disgrace. She loves with the unavailable dashing young soldier, and has repeatedly refused the steadfast intellectual struggling against his upper class heritage though that marriage would restore her to her rightful place in society. As tumultuous events unfold, Julie’s impulsive passionate nature is tempered and she survives with the unwavering support of her interesting friends.&lt;/p&gt;
-			&lt;p&gt;Initially published as a serial in &lt;i&gt;Harper’s Magazine&lt;/i&gt;, &lt;i&gt;Lady Rose’s Daughter&lt;/i&gt; became the best-selling novel of &lt;time&gt;1903&lt;/time&gt; according to &lt;i&gt;Publisher’s Weekly&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Mademoiselle Julie Le Breton is a complex, intelligent, ambitious woman secretly scheming to advance the career of a man she loves—but who is engaged to her cousin. She rebels against the subservient role she’s forced to play in society, and hides her illegitimacy by concealing her outcast parents.&lt;/p&gt;
+			&lt;p&gt;She repeatedly refuses the proposals of a steadfast intellectual struggling against his upper class heritage, even though such a marriage would restore her to her rightful place in society. As tumultuous events unfold, can Julie’s impulsive, passionate nature be tempered?&lt;/p&gt;
+			&lt;p&gt;Initially serialized in &lt;i&gt;Harper’s Magazine&lt;/i&gt;, &lt;i&gt;Lady Rose’s Daughter&lt;/i&gt; became the best-selling novel of 1903.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/13782</dc:source>
 		<dc:source>https://archive.org/details/ladyrosesdaughter00ward</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">129448</meta>
+		<meta property="se:reading-ease.flesch">73.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Lady_Rose's_Daughter_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/mary-augusta-ward_lady-roses-daughter</meta>
 		<dc:creator id="author">Mary Augusta Ward</dc:creator>
@@ -73,6 +74,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
