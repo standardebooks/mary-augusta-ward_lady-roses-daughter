@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043366</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A scheming woman seeks to advance the career of a soldier she loves, while refusing marriage to an aristocrat who could improve her situation.</dc:abstract>
+		<meta property="schema:abstract">A scheming woman seeks to advance the career of a soldier she loves, while refusing marriage to an aristocrat who could improve her situation.</meta>
 		<dc:description>
 			&lt;p&gt;Mademoiselle Julie Le Breton is a complex, intelligent, ambitious woman secretly scheming to advance the career of a man she loves—but who is engaged to her cousin. She rebels against the subservient role she’s forced to play in society, and hides her illegitimacy by concealing her outcast parents.&lt;/p&gt;
 			&lt;p&gt;She repeatedly refuses the proposals of a steadfast intellectual struggling against his upper class heritage, even though such a marriage would restore her to her rightful place in society. As tumultuous events unfold, can Julie’s impulsive, passionate nature be tempered?&lt;/p&gt;
