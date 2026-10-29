@@ -56,7 +56,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">József Rippl-Rónai</dc:contributor>
 		<meta property="file-as" refines="#artist">Rippl-Rónai, József</meta>
-		<link href="https://en.wikipedia.org/wiki/József_Rippl-Rónai" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/J%C3%B3zsef_Rippl-R%C3%B3nai" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n84069601.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
